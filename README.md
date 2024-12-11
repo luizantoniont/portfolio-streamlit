@@ -31,7 +31,8 @@ poetry install
 ### 4. Ativar Ambiente Virtual e Executar
 ```bash
 poetry shell
-poetry run start  # Executa o aplicativo Streamlit
+poetry run start
+poetry run streamlit run src/portifolio_streamlit/app.py  # Executa o aplicativo Streamlit
 ```
 
 ## Comandos de Desenvolvimento

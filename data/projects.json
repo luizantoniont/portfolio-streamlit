@@ -4,7 +4,7 @@
             "id": "project1",
             "title": "Customer Churn Prediction",
             "description": "Developed a machine learning model to predict customer churn using logistic regression and ensemble methods.",
-            "image": "path/to/churn_project_image.png",
+            "image": "data/images/project_two_image.jpg",
             "technologies": ["Python", "scikit-learn", "Pandas"],
             "github_link": "https://github.com/yourusername/churn-prediction"
         },
@@ -12,7 +12,7 @@
             "id": "project2", 
             "title": "Sentiment Analysis Dashboard",
             "description": "Created a real-time sentiment analysis dashboard using NLP techniques and Streamlit.",
-            "image": "path/to/sentiment_project_image.png",
+            "image": "data/images/project_one_image.png",
             "technologies": ["Python", "NLTK", "Streamlit"],
             "github_link": "https://github.com/yourusername/sentiment-analysis"
         }
