@@ -1,8 +1,7 @@
-# tests/test_app.py
 import pytest
 import streamlit as st
-from portifolio_streamlit.components.home import render_home
-from portifolio_streamlit.components.projects import load_projects
+from src.portifolio_streamlit.components.home import render_home
+from src.portifolio_streamlit.components.projects import load_projects
 
 def test_load_projects():
     """Test loading projects from JSON"""
