@@ -1,7 +1,7 @@
 import pytest
 import streamlit as st
-from src.portifolio_streamlit.components.home import render_home
-from src.portifolio_streamlit.components.projects import load_projects
+from src.portfolio_streamlit.components.home import render_home
+from src.portfolio_streamlit.components.projects import load_projects
 
 
 def test_load_projects():
