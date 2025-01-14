@@ -1,4 +1,4 @@
-# Portifólio de Cientista de Dados - Aplicativo Streamlit
+# Portfólio de Cientista de Dados - Aplicativo Streamlit
 
 ## Visão Geral
 Um aplicativo Streamlit que apresenta meu portfólio de ciência de dados, projetos e informações profissionais.
@@ -32,7 +32,7 @@ poetry install
 ```bash
 poetry shell
 poetry run start
-poetry run streamlit run src/portifolio_streamlit/app.py  # Executa o aplicativo Streamlit
+poetry run streamlit run src/portfolio_streamlit/app.py  # Executa o aplicativo Streamlit
 ```
 
 ## Comandos de Desenvolvimento
